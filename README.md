@@ -19,8 +19,9 @@
 ---
 ### &#128526; Несколько моих проектов:
 - [Wildberries bot - парсинг цен (Telegram-bot)](https://github.com/DmitriFaizullin/wildberries_bot)
-- [API YAMDB - групповой проект api сайта (backend)](https://github.com/DmitriFaizullin/api_yamdb)
 - [Foodgram - сайт рецептов (backend) ](https://github.com/DmitriFaizullin/foodgram)
+- [API YAMDB - групповой проект api сайта (backend)](https://github.com/DmitriFaizullin/api_yamdb)
+- [API YATUBE - api сайта (backend)](https://github.com/DmitriFaizullin/api_final_yatube)
 - [Trading robot - торговый робот для фьючерсов ](https://github.com/DmitriFaizullin/trading_robot_on_lua)
 - [Testing strategy - тестирование торговой тратегии ](https://github.com/DmitriFaizullin/testing_trading_strategy_CPP)
 ---
