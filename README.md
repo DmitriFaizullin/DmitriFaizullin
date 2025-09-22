@@ -18,6 +18,7 @@
 #### Python, Django, DRF, SQL, Postman, Docker, Git, CI/CD, C++, Lua, QPILE
 ---
 ### &#128526; Несколько моих проектов:
+- [Wildberries bot - парсинг цен (Telegram-bot)](https://github.com/DmitriFaizullin/smena_collective_team3)
 - [Wildberries bot - парсинг цен (Telegram-bot)](https://github.com/DmitriFaizullin/wildberries_bot)
 - [Foodgram - сайт рецептов (backend) ](https://github.com/DmitriFaizullin/foodgram)
 - [API YAMDB - групповой проект api сайта (backend)](https://github.com/DmitriFaizullin/api_yamdb)
